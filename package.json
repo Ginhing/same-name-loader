@@ -1,5 +1,5 @@
 {
-  "name": "asset-loader",
+  "name": "same-name-loader",
   "version": "0.0.1",
   "description": "auto require the assets whose filename is same to the module",
   "main": "index.js",
